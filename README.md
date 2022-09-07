@@ -1,4 +1,4 @@
-# Starter template for using CUDA with Devcontainers
+# GitHub Codespaces Devcontainer - CUDA Template
 
 Contains a default Devcontainer setup, based on Ubuntu, with:
 
@@ -6,9 +6,15 @@ Contains a default Devcontainer setup, based on Ubuntu, with:
  - Python 
  - Jupyter Lab
 
-## Use
+## Getting started
 
-Download in the root directory of your repository:
+### New repository
+
+Click `Use repository` on this repository's GitHub page
+
+### Existing repository
+
+Download the template files to your repository root directory:
 
 ```bash
 curl https://raw.githubusercontent.com/alan-cooney/devcontainer-cuda/main/.devcontainer/Dockerfile \
