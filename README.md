@@ -10,7 +10,7 @@ Contains a default Devcontainer setup, based on Ubuntu, with:
 
 ### New repository
 
-Click `Use this template` on this repository's GitHub page
+[Use this template](https://github.com/alan-cooney/devcontainer-cuda/generate) on GitHub.
 
 ### Existing repository
 
