@@ -10,7 +10,7 @@ Contains a default Devcontainer setup, based on Ubuntu, with:
 
 ### New repository
 
-Click `Use repository` on this repository's GitHub page
+Click `Use this template` on this repository's GitHub page
 
 ### Existing repository
 
