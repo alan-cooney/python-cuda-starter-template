@@ -19,18 +19,26 @@
             },
             // Add the IDs of extensions you want installed when the container is created.
             "extensions": [
+                "2gua.rainbow-brackets",
+                "christian-kohler.path-intellisense",
+                "davidanson.vscode-markdownlint",
+                "donjayamanne.githistory",
+                "donjayamanne.python-extension-pack",
+                "github.vscode-pull-request-github",
+                "ionutvmi.path-autocomplete",
                 "ms-python.python",
                 "ms-python.vscode-pylance",
-                "njpwerner.autodocstring",
-                "streetsidesoftware.code-spell-checker",
-                "donjayamanne.githistory",
-                "ms-toolsai.jupyter",
+                "ms-toolsai.jupyter-keymap",
                 "ms-toolsai.jupyter-renderers",
-                "donjayamanne.python-extension-pack",
+                "ms-toolsai.jupyter",
+                "ms-vsliveshare.vsliveshare-pack",
+                "njpwerner.autodocstring",
+                "redhat.vscode-yaml",
                 "richie5um2.vscode-sort-json",
                 "stkb.rewrap",
+                "streetsidesoftware.code-spell-checker",
                 "tushortz.python-extended-snippets",
-                "ms-toolsai.jupyter-keymap"
+                "yzhang.markdown-all-in-one"
             ]
         }
     },
