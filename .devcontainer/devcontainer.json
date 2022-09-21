@@ -42,5 +42,7 @@
             ]
         }
     },
-    "containerUser": "user"
+    "containerUser": "user",
+    // Install any dependencies
+    "postCreateCommand": "pip install ."
 }
