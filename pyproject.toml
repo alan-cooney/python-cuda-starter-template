@@ -4,7 +4,8 @@ requires = ["setuptools"]
 
 [project]
 dependencies = [
-   
+   "pytest"
 ]
 name = "project-name"
+
 version = "0.0.1"
